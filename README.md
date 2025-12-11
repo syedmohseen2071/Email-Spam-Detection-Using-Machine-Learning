@@ -16,9 +16,8 @@ This project demonstrates text preprocessing, ML model training, and real-time e
 ---
 
 ## Machine Learning Techniques Used
-- Bag of Words / TF-IDF Vectorization  
+- TF-IDF Vectorization  
 - Naive Bayes Classifier 
-- Data cleaning (stopwords, punctuation removal, stemming, etc.)
 
 ---
 
